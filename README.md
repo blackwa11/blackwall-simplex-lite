@@ -1,4 +1,3 @@
-## Installation
 # Simplex Lite
 
 Lightweight Blender addon for real-time 4D simplex projection and rotation.
@@ -16,3 +15,7 @@ Edit → Preferences → Add-ons → Install from Disk
 - Mesh / Curve modes
 - Six 4D rotation planes
 - Lightweight UI
+
+## Package
+
+Modular Blender addon package for experimental higher-dimensional geometry workflows.
