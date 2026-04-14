@@ -1,10 +1,18 @@
 ## Installation
+# Simplex Lite
 
-1. Open the **Releases** section of this repository
-2. Download **blackwall_simplex_lite_installable.zip** from the **Assets** section
-3. **Do NOT use** the automatically generated Source code ZIP/TAR files
-4. Open Blender
-5. Go to **Edit > Preferences > Add-ons**
-6. Click **Install from Disk**
-7. Select **blackwall_simplex_lite_installable.zip**
-8. Enable **Simplex Lite**
+Lightweight Blender addon for real-time 4D simplex projection and rotation.
+
+## Installation
+
+Download `blackwall_simplex_lite_installable.zip` from Releases.
+
+Blender:
+Edit → Preferences → Add-ons → Install from Disk
+
+## Features
+
+- Real-time 4D simplex projection
+- Mesh / Curve modes
+- Six 4D rotation planes
+- Lightweight UI
