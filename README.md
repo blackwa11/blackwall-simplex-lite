@@ -4,7 +4,7 @@ Lightweight Blender addon for real-time 4D simplex projection and rotation.
 
 ## Installation
 
-Download [blackwall_simplex_lite_installable.zip](../../releases) from Releases.
+Download [blackwall_simplex_lite_installable.zip](https://github.com/blackwa11/blackwall-simplex-lite/releases/download/v1.0.0/blackwall_simplex_lite_installable.zip)
 
 Blender:
 Edit → Preferences → Add-ons → Install from Disk
