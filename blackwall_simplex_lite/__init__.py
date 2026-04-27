@@ -1,6 +1,6 @@
 bl_info = {
     "name": "Simplex Lite",
-    "author": "blackwa11 / Blackwall",
+    "author": "Blackwall",
     "version": (1, 0, 0),
     "blender": (4, 0, 0),
     "location": "View3D > Sidebar > 4D Transform",
