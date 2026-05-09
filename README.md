@@ -4,43 +4,25 @@ Real-time 4D simplex projection system for Blender.
 
 ---
 
-# 🔥 Preview
+## 🔥 Preview
 
-GIF preview will be added here.
-
-After uploading preview.gif to the repository root:
+Preview GIF will be added here later.
 
 ```md
-![Simplex Preview](https://github.com/blackwalllab/simplex_lite/raw/main/preview.gif)
+![Simplex Lite Preview](https://github.com/blackwalllab/simplex-lite/raw/main/preview.gif)
 ```
 
 ---
 
-# 🚀 Download
+## 🚀 Download
 
-## ✅ Recommended Installation
+### ✅ Direct Download
 
-Download the Blender addon ZIP from Releases:
-
-```text
-https://github.com/blackwalllab/simplex_lite/releases
-```
-
-Install file:
-
-```text
-simplex_lite.zip
-```
-
-Release version:
-
-```text
-Simplex Lite v1.0
-```
+[Download simplex_lite.zip](https://github.com/blackwalllab/simplex-lite/releases/latest/download/simplex_lite.zip)
 
 ---
 
-# ⚠ Important
+## ⚠ Important
 
 Do NOT use:
 
@@ -48,13 +30,19 @@ Do NOT use:
 Code → Download ZIP
 ```
 
-This downloads the repository source code, NOT the installable Blender addon.
+That downloads the repository source code, NOT the installable Blender addon.
 
-Use the ZIP file from Releases instead.
+Use only:
+
+```text
+simplex_lite.zip
+```
+
+from Releases.
 
 ---
 
-# ⚙ Blender Installation
+## ⚙ Blender Installation
 
 1. Open Blender
 
@@ -70,7 +58,7 @@ Edit → Preferences → Add-ons → Install
 simplex_lite.zip
 ```
 
-4. Enable the addon:
+4. Enable:
 
 ```text
 Simplex Lite
@@ -78,81 +66,58 @@ Simplex Lite
 
 ---
 
-# 🔥 Features
+## 🔥 Features
 
 - Real-time 4D simplex projection
-- 4D geometric structure generation
-- Projection from 4D space into 3D space
-- Procedural real-time visualization
-- Lightweight Python implementation
-- Blender native addon
+- Dynamic geometric generation
+- 4D procedural transformations
+- Lightweight Blender addon
+- Modular Python structure
+- Experimental higher-dimensional workflow
 - No external dependencies
-- Clean Lite version
+- Public Lite version
 
 ---
 
-# 🧠 About
+## 🧠 About
 
-Simplex Lite is an experimental Blender addon for visualizing a 4D simplex structure in real time.
+Simplex Lite is an experimental Blender addon for real-time higher-dimensional geometry workflows.
 
-The addon generates a mathematical 4D simplex, applies higher-dimensional transformations, and projects the result into 3D space directly inside Blender.
+The addon generates and transforms a 4D simplex structure directly inside Blender.
 
 This is NOT a pre-rendered animation.
 
-The geometry is generated procedurally in real time.
+The geometry exists dynamically inside the system itself.
 
 ---
 
-# 📦 Included
-
-Repository structure:
+## 📦 Correct ZIP Structure
 
 ```text
-README.md
-LICENSE
-simplex_lite/
-```
-
-Inside the installable ZIP:
-
-```text
-simplex_lite/
-├── __init__.py
-├── properties.py
-├── core/
-├── operators/
-└── ui/
+simplex_lite.zip
+└── simplex_lite/
+    ├── __init__.py
+    ├── core/
+    ├── operators/
+    └── ui/
 ```
 
 ---
 
-# 🛠 Requirements
+## 🛠 Requirements
 
-- Blender 3.0 or newer
-
----
-
-# 🚀 Roadmap
-
-- Additional 4D structures
-- Improved UI
-- Animation tools
-- Projection controls
-- Hyper systems
-- Pro version
+- Blender 3.0+
 
 ---
 
-# 👤 Author
+## 👤 Author
 
 Blackwall
 
-GitHub:
-
-```text
-https://github.com/blackwalllab/simplex_lite
-```
-
 ---
 
-# 🌀 Beyond 3D
+## 🌀 Manifesto
+
+This is not animation.
+
+Beyond 3D.
